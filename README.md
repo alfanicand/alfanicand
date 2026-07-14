@@ -1,20 +1,19 @@
 # 👋 Halo, saya Alfanicand  
 
 Saya sedang fokus membangun karier sebagai **Data Analyst**.  
-Berpengalaman menggunakan **Python, SQL, Excel, Tableau, dan Power BI** untuk mengolah data, membuat visualisasi, serta menemukan insight yang bisa mendukung pengambilan keputusan.  
+Memiliki pengalaman menggunakan **Python, SQL, Excel, dan Power BI** untuk mengolah data, membuat visualisasi, serta menemukan insight yang bisa mendukung pengambilan keputusan.  
 
 Di GitHub ini saya mengumpulkan proyek-proyek pembelajaran dan portofolio pribadi saya.  
-Ke depan, saya ingin terus mengembangkan kemampuan saya di bidang **data analytics dan business intelligence**.  
+Ke depan, saya ingin terus mengembangkan kemampuan saya di bidang **data analytics**.  
  
 
 ---
 
 ## 🛠️ Skills & Tools  
-- **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Database**: SQL (MySQL, PostgreSQL)  
+- **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn) 
+- **Database**: SQL
 - **Spreadsheet**: Microsoft Excel & Google Sheets  
 - **Visualization**: Tableau, Power BI  
-- **Version Control**: Git & GitHub  
 
 ---
 
@@ -34,14 +33,6 @@ Ke depan, saya ingin terus mengembangkan kemampuan saya di bidang **data analyti
 - [LinkedIn]()  
 - [Kaggle]()  
 - [Email](mailto:aguscandraalfani.com)  
-
----
-
-## 📊 GitHub Stats  
-![Alfanicand's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfanicand&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfanicand&layout=compact&theme=tokyonight)  
-
----
 
 ## ✨ Motto  
 > “Turning data into insights, and insights into decisions.”
