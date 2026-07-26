@@ -13,25 +13,11 @@ Ke depan, saya ingin terus mengembangkan kemampuan saya di bidang **data analyti
 - **Programming & Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn) 
 - **Database**: SQL
 - **Spreadsheet**: Microsoft Excel & Google Sheets  
-- **Visualization**: Tableau, Power BI  
+- **Visualization**: Tableau, Power BBI
 
 ---
 
-## 📂 Featured Projects  
-✨ Beberapa proyek yang sedang dan akan saya kembangkan:  
-
-- 📊 **Titanic EDA** → Analisis eksplorasi dataset Titanic dengan Python & Seaborn  
-- 📈 **Sales Dashboard** → Dashboard interaktif penjualan dengan Tableau  
-- 🛒 **Customer Segmentation** → Segmentasi pelanggan sederhana menggunakan clustering  
-- 🌍 **COVID-19 Data Analysis** → Analisis tren pandemi global  
-
-*(Proyek akan terus bertambah seiring perjalanan portofolio saya 🚀)*  
-
----
-
-## 🌐 Connect with Me  
-- [LinkedIn]()  
-- [Kaggle]()  
+## 🌐 Connect with Me 
 - [Email](mailto:aguscandraalfani.com)  
 
 ## ✨ Motto  
